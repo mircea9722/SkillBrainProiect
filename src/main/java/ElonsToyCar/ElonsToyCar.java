@@ -1,4 +1,4 @@
-package org.example;
+package ElonsToyCar;
 public class ElonsToyCar {
     private int distanceTraveled;
     private int batteryLevel;
