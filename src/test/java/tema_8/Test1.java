@@ -9,7 +9,7 @@ import org.testng.annotations.Test;
 
 import java.time.Duration;
 
-public class Test1 extends BaseEight {
+public class Test1 extends BaseNew {
 
 
 @Test(groups = "desktop")

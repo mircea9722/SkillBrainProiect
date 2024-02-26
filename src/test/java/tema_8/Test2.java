@@ -11,7 +11,7 @@ import java.util.Set;
 
 import static org.testng.Assert.assertTrue;
 
-public class Test2 extends BaseEight {
+public class Test2 extends BaseNew {
 
     @Test(groups = "mobile")
     public static void test2() throws InterruptedException {

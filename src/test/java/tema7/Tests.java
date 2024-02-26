@@ -1,8 +1,8 @@
 package tema7;
 
+import org.junit.Test;
 import org.openqa.selenium.By;
 import org.testng.annotations.BeforeClass;
-import org.testng.annotations.Test;
 
 public class Tests extends BaseTestKatalon {
 

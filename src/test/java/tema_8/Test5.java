@@ -9,7 +9,7 @@ import java.time.Duration;
 
 import static org.testng.Assert.assertEquals;
 
-public class Test5 extends BaseEight {
+public class Test5 extends BaseNew {
 
     @Test
     public void testDynamicButtons() {

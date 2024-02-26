@@ -9,7 +9,7 @@ import org.testng.annotations.Test;
 
 import java.time.Duration;
 
-public class Test4 extends BaseEight {
+public class Test4 extends BaseNew {
     @Test
     public static void test4(){
         driver.get("https://testpages.herokuapp.com/styled/dynamic-buttons-simple.html");

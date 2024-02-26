@@ -8,7 +8,7 @@ import org.testng.annotations.BeforeClass;
 import org.testng.annotations.BeforeMethod;
 
 
-public class BaseEight {
+public class BaseNew {
     protected static WebDriver driver;
 
     @BeforeClass(groups = "desktop")

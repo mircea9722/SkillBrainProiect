@@ -8,7 +8,7 @@ import org.testng.annotations.Test;
 
 import java.time.Duration;
 
-public class Test3 extends BaseEight {
+public class Test3 extends BaseNew {
 
     @Test
     public static void test3() throws InterruptedException {
